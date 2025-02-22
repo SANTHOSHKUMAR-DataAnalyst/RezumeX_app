@@ -1,0 +1,12 @@
+streamlit
+pypdf
+pdf2image
+pytesseract
+google-generativeai
+python-dotenv
+Pillow
+vertexai
+pandas
+matplotlib
+scikit-learn
+jinja2
